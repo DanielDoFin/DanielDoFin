@@ -1,11 +1,10 @@
 # Hi, I'm Do Tan Dat
 
-Quantitative researcher and builder: systematic equity alphas by day, AI-to-3D-printing tooling by night.
+Quantitative researcher building systematic equity alphas.
 
 ## What I do
 
 - **WorldQuant BRAIN Consultant** (Oct 2023 - present): building long-short neutral alphas for systematic equity and statistical arbitrage. 300+ value-adding alphas across USA, China, Korea, Japan, Europe, Taiwan, Global and more.
-- **Tangiform**: building an AI platform that turns text and images into 3D models ready for printing. ([github.com/Tangiform](https://github.com/Tangiform))
 - Currently learning: machine learning, NLP, quant research.
 
 ## Highlights
